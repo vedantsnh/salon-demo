@@ -54,10 +54,9 @@ Download `index.html` and open it in any browser.
 
 ## Want a website like this for your business?
 
-I build simple, affordable websites for local businesses.
+This is an example of website(s) for local businesses.
 
 - Instagram: @vedantsinha.snh(https://instagram.com/vedantsinha.snh)
-- WhatsApp: +91 7782887734
 - LinkedIn: Vedant Sinha(https://linkedin.com/in/vedantsnh)
 
-*Built by Your VEDANT SINHA.*
+*Built by: VEDANT SINHA.*
